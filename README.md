@@ -52,21 +52,3 @@ Estes dados representam uma pequena parcela dos serviços disponíveis na plataf
 Temos ainda um esquema do relacionamento destes dados:
 
 <img src="https://user-images.githubusercontent.com/4283625/157664295-45b60786-92a4-478d-a044-478cdc6261d7.jpg" alt="" width="650">
-
-## Sobre o autor
-
-Téo é Bacharel em Estatística e tem Pós Graduação em Data Science & Big Data.
-
-Hoje, como Head of Data na Gamers Club, gostaria de contribuir ainda mais para a comunidade trazendo dados reais e aplicações com SQL, Python e Machine Learning.
-
-Você pode conhecer mais sobre mim no [LinkedIn](https://www.linkedin.com/in/teocalvo/) e [GitHub](https://github.com/teocalvo).
-
-## Como apoiar
-
-O Téo Me Why existe a partir do propósito de mudar vidas pelo ensino, assim, a melhor forma de apoiar o que estamos construindo é o compartilhamento e interações nas redes sociais. Talvez você não faça ideia o quanto sua curtida pode alcançar e transformar vidas.
-
-Para manter o ambiente que construiremos funcionando, existe um custo envolvido. Hoje, as assinaturas da Twitch são a principal forma que conseguimos deixar as contas equilibradas. Assim, você pode nos apoiar assinano nosso canal. Em troca da assinatura, você terá acesso à todo material criado na Twitch, e ficará livre dos ADs (propaganda) durante as transmissões.
-
-Prezamos pela transparência, assim, você pode conferir nossas [contas aqui](https://docs.google.com/spreadsheets/d/1V5e4aIJTLh1k7kFn_wj5Bn_7_9hDCml1eNcXdK6NhU8/edit?usp=sharing).
-
-Fique a vontade para contribuir com este documento, corrigindo erros de português e digitação. Bem como abertura de `issues` que acredita ser interessante resolvermos.
