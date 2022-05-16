@@ -11,7 +11,7 @@ def save_bucket_s3(db, table, s3_client):
 
 db = sqlalchemy.create_engine("sqlite:///../data/gc.db")
 tables = db.table_names()
-s3_client = 1 #boto3.client('s3')
+s3_client = boto3.client('s3')
 
 for i in tqdm(tables):
     save_bucket_s3(db,i,s3_client)
