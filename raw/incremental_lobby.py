@@ -28,4 +28,4 @@ df.to_sql("tb_lobby_stats_player", db, if_exists='append', index=False)
 
 df['Op'] = 'I'
 df.to_csv(filename, index=False)
-s3_client.upload_file(filename, '', f"raw/gc/cdc/tb_lobby_stats_player/{last_id}.csv")
+#s3_client.upload_file(filename, '', f"raw/gc/cdc/tb_lobby_stats_player/{last_id}.csv")
