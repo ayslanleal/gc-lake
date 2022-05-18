@@ -2,10 +2,7 @@
 
 Aprendendo sobre Datalakes com dados de [Counter Strike](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) da [Gamers Club (GC)](https://gamersclub.gg/).
 
-Lives na [Twitch](https://www.twitch.tv/teomewhy) todas terças e quintas às 9:00AM!
-
-
-[<img src="https://i.ibb.co/jWdzVDZ/teomewhy-logo-interrogacao-small.png" alt="teomewhy" width=100>](https://www.twitch.tv/teomewhy) &nbsp;&nbsp; [<img src="https://i.ibb.co/VxZz16c/gczinha.png" alt="gc" width=90>](https://gamersclub.gg/) &nbsp;&nbsp; [<img src="https://i.ibb.co/Qd2WzJ0/Apache-Spark.png" alt="Apache-Spark" width=120>](https://spark.apache.org/) &nbsp;&nbsp; [<img src="https://i.ibb.co/M2RF1Vb/deltalake.png" alt="deltalake" width=100>](https://delta.io/) &nbsp;&nbsp; [<img src="https://i.ibb.co/G95JWPM/databricks.png" alt="databricks" width=85>](https://databricks.com/)
+[<img src="https://i.ibb.co/VxZz16c/gczinha.png" alt="gc" width=90>](https://gamersclub.gg/) &nbsp;&nbsp; [<img src="https://i.ibb.co/Qd2WzJ0/Apache-Spark.png" alt="Apache-Spark" width=120>](https://spark.apache.org/) &nbsp;&nbsp; [<img src="https://i.ibb.co/M2RF1Vb/deltalake.png" alt="deltalake" width=100>](https://delta.io/) &nbsp;&nbsp; [<img src="https://i.ibb.co/G95JWPM/databricks.png" alt="databricks" width=85>](https://databricks.com/)
 
 ## Sumário
 
