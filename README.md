@@ -12,10 +12,6 @@ Aprendendo sobre Datalakes com dados de [Counter Strike](https://store.steampowe
 
 * [3 Sobre os dados](#sobre-os-dados)
 
-* [4 Sobre o autor](#sobre-o-autor)
-
-* [5 Como apoiar](#como-apoiar)
-
 ## Sobre o projeto
 
 A ideia principal deste projeto é a criação de um Datalake utilizando os dados públicos que a Gamers Clube disponibilizou no Kaggle. É esperado que os exemplos construidos auxiliem os primeiros passos de quem se interesse pelo tema. Assim, começaremos do básico e evoluiremos em conjuto com a comunidade.
