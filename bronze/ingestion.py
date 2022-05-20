@@ -14,7 +14,7 @@ def table_exists(table_name):
 
 # COMMAND ----------
 
-table_name = "tb_players"
+table_name = "tb_lobby_stats_player"
 raw_path = f'/mnt/datalake/raw/gc/full_load/{table_name}.csv'
 table_schema = import_schema(table_name)
 
@@ -27,7 +27,11 @@ if not table_exists(table_name):
 
 # COMMAND ----------
 
+df = spark.read.csv(raw_path ,header= True)
 
+# COMMAND ----------
+
+df.schema.json()
 
 # COMMAND ----------
 
