@@ -25,7 +25,7 @@ id_field = ['idLobbyGame', 'idPlayer']
 strongly_date = 'dtCreatedAt'
 
 full_load_path = f'/mnt/datalake/raw/gc/full_load/{table_name}.csv'
-cdc_path = f'/mnt/datalake/raw/gc/cdc/{table_name}.csv'
+cdc_path = f'/mnt/datalake/raw/gc/cdc/{table_name}'
 
 table_schema = import_schema(table_name)
 checkpoint_path = f'/mnt/datalake/bronze/gc/{table_name}_checkpoint'
@@ -88,3 +88,7 @@ stream = (df_stream.writeStream.format('delta')
 time.sleep(60)
 stream.processAllAvailable()
 stream.stop()
+
+# COMMAND ----------
+
+
