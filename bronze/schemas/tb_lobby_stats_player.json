@@ -1,58 +1,59 @@
-'{
+{
     "fields": [
+
         {
             "metadata": {},
             "name": "idLobbyGame",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "idPlayer",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "idRoom",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtKill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtAssist",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtDeath",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtHs",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtBombeDefuse",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtBombePlant",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
@@ -70,43 +71,43 @@
             "metadata": {},
             "name": "qt1Kill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qt2Kill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qt3Kill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qt4Kill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qt5Kill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtPlusKill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "qtFirstKill",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
@@ -148,7 +149,7 @@
             "metadata": {},
             "name": "descMapName",
             "nullable": true,
-            "type": "float"
+            "type": "string"
         },
         {
             "metadata": {},
@@ -220,14 +221,14 @@
             "metadata": {},
             "name": "flWinner",
             "nullable": true,
-            "type": "float"
+            "type": "integer"
         },
         {
             "metadata": {},
             "name": "dtCreatedAt",
             "nullable": true,
-            "type": "float"
+            "type": "timestamp"
         }
     ],
     "type": "struct"
-}'
+}
