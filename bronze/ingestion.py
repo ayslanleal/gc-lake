@@ -19,10 +19,9 @@ def table_exists(table_name):
 
 # COMMAND ----------
 
-table_name = "tb_lobby_stats_player"
-
-id_field = ['idLobbyGame', 'idPlayer']
-strongly_date = 'dtCreatedAt'
+table_name = dbutils.widgets.get('table')
+id_field = dbutils.widgets.get('id_field').split(",")
+strongly_date = dbutils.widgets.get('strongly_date')
 
 full_load_path = f'/mnt/datalake/raw/gc/full_load/{table_name}.csv'
 cdc_path = f'/mnt/datalake/raw/gc/cdc/{table_name}'
