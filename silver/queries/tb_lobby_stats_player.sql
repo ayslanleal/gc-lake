@@ -1,4 +1,5 @@
 SELECT
+  Op,
   idLobbyGame,
   idPlayer,
   idRoom,
