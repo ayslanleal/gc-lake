@@ -28,6 +28,7 @@ strongly_date_target = 'dtCreatedAt'
 checkpoint_path = f'/mnt/datalake/silver/{tb_target.split(".")[-1]}_checkpoint'
 
 
+
 # COMMAND ----------
 
 query = db.import_query('queries/tb_lobby_stats_player.sql')
